@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.container-fluid{
+  background:linear-gradient(rgb(99, 147, 252), rgb(14, 59, 155)) ;
+}
+
+.display-4{
+  color: #ffffff;
+}
